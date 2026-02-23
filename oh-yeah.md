@@ -1,5 +1,5 @@
 ---
-icon: 😊
+icon: 📕
 ---
 
 # Oh yeah
