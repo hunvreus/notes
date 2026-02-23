@@ -1,5 +1,3 @@
----
-title: Whatever dude
----
+# Whatever man
 
 sdf
