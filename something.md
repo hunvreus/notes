@@ -5,7 +5,7 @@ cover: https://images.unsplash.com/photo-1761839259488-2bdeeae794f5?q=80&w=2071&
 
 # Something
 
-## DAY 1 — PUSH STRENGTH (Gym Preferred)
+## Gym Preferred
 
 ### Workout
 
@@ -18,6 +18,12 @@ dsfdsfsfsfsfsd
 sdfdsfsdfdsf
 
 sdf
+
+sdf
+
+df
+
+sdsfdsfdsfdsfsfs
 
 dsfdsfdsf
 
