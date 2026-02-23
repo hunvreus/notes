@@ -2,9 +2,9 @@
 title: Something
 ---
 
-# DAY 1 — PUSH STRENGTH (Gym Preferred)
+## DAY 1 — PUSH STRENGTH (Gym Preferred)
 
-## Workout
+### Workout
 
 
 | Exercise                 | Reps     | Tempo   | Weight   | Comments          |
@@ -17,11 +17,11 @@ title: Something
 | L-sit Hold               | 4×20–30s | —       | —        | DB handles/bench  |
 
 
-## Cardio
+### Cardio
 
 10–15 min brisk walk.
 
-## Nutrition
+### Nutrition
 
 - Pre: 3 eggs, 2 bacon, 1 slice sourdough, 150–250g veg
 - Post: 200–250g lean meat + 150–250g veg
