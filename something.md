@@ -1,5 +1,5 @@
 ---
-icon: 😄
+icon: 📝
 cover: https://images.unsplash.com/photo-1761839259488-2bdeeae794f5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
@@ -7,7 +7,7 @@ cover: https://images.unsplash.com/photo-1761839259488-2bdeeae794f5?q=80&w=2071&
 
 ## Gym Preferred
 
-### Workout
+### `Workout`
 
 &nbsp;
 
@@ -31,7 +31,12 @@ dsfdsfdsf
 
 sdf
 
-&nbsp;
+
+| dfsfdsf | dsfsdf | sf     |
+| ------- | ------ | ------ |
+| &nbsp;  | &nbsp; | &nbsp; |
+| &nbsp;  | &nbsp; | &nbsp; |
+
 
 sdfdsfsf
 
