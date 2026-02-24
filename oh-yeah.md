@@ -1,7 +1,3 @@
----
-icon: 📕
----
-
 # Oh yeah
 
 ## sdfsdfdsffsf
